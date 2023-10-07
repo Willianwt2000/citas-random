@@ -1,4 +1,4 @@
-const citas = [
+export const citas = [
     {
         'autor': 'Bill Gates',
         'texto': `La paciencia es la clave del éxito.`
@@ -81,4 +81,3 @@ const citas = [
     }
 ]
 
-export default 'citas'
